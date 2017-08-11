@@ -1,0 +1,13 @@
+.thumbnail {
+    min-height: 420px;
+}
+
+.label {
+    display: inline-block;
+}
+.thumbnail img{
+
+    width:100%;
+    height:200px;
+
+}
